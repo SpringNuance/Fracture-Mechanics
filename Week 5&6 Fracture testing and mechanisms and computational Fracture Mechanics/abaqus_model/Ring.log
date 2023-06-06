@@ -1,0 +1,19 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB Ring
+Abaqus Learning Edition 2022
+Begin Analysis Input File Processor
+5/28/2023 10:44:35 PM
+Run pre.exe
+5/28/2023 10:44:38 PM
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+5/28/2023 10:44:38 PM
+Run standard.exe
+5/28/2023 10:44:39 PM
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+5/28/2023 10:44:39 PM
+Run SMASimUtility.exe
+5/28/2023 10:44:39 PM
+End SIM Wrap-up
+Abaqus JOB Ring COMPLETED

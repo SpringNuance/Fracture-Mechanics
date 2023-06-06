@@ -1,0 +1,16 @@
+<?xml version="1.0"?><msgwrapper><Started><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Ring</jobName><clientHost type="string">DESKTOP-JGURQ37</clientHost><handle type="integer">0</handle></Started>
+<Warning><message type="string">FOR TWO-DIMENSIONAL MODELS, IF A NON-UNITY THICKNESS IS SPECIFIED FOR TWO-DIMENSIONAL SOLID ELEMENTS AND THESE ELEMENTS ARE INVOLVED IN AN INTERACTION SUCH AS CONTACT, THE SAME THICKNESS SHOULD BE SPECIFIED FOR THE OUT-OF-PLANE THICKNESS OF THE CORRESPONDING SURFACE UNDER *SURFACE INTERACTION.</message><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Ring</jobName></Warning>
+<Odb_File><file type="string">C:\Users\springnuance\Desktop\Fracture Mechanics\Week 5&amp;6 Fracture testing and mechanisms and computational Fracture Mechanics\abaqus_model\Ring.odb</file><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Ring</jobName></Odb_File>
+<Completed><message type="string">Analysis phase complete</message><phase type="symconst">BATCHPRE_PHASE</phase><jobName type="string">Ring</jobName></Completed>
+<Started><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName><clientHost type="string">DESKTOP-JGURQ37</clientHost><handle type="integer">15756</handle></Started>
+<Step><stepId type="integer">1</stepId><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName></Step>
+<Odb_Frame><step type="integer">0</step><frame type="integer">0</frame><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName></Odb_Frame>
+<MEMORY_ESTIMATE><memory type="float">25</memory><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName></MEMORY_ESTIMATE>
+<PHYSICAL_MEMORY><physical_memory type="float">16097</physical_memory><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName></PHYSICAL_MEMORY>
+<MINIMUM_MEMORY><minimum_memory type="float">17</minimum_memory><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName></MINIMUM_MEMORY>
+<Warning><message type="string">Solver problem. Numerical singularity when processing node RING-1.501 D.O.F. 1 ratio = 145.859E+12  .</message><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName></Warning>
+<Odb_Frame><step type="integer">0</step><frame type="integer">1</frame><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName></Odb_Frame>
+<Status><step type="integer">1</step><increment type="integer">1</increment><attempts type="integer">1</attempts><severe type="integer">0</severe><equilibrium type="integer">1</equilibrium><iterations type="integer">1</iterations><totalTime type="float">1</totalTime><stepTime type="float">1</stepTime><timeIncrement type="float">1</timeIncrement><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName></Status>
+<End_Step><stepId type="integer">1</stepId><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName></End_Step>
+<Completed><message type="string">Analysis phase complete</message><phase type="symconst">STANDARD_PHASE</phase><jobName type="string">Ring</jobName></Completed>
+<JOB_COMPLETED><jobName type="string">Ring</jobName><time type="string">Sun May 28 22:44:39 2023</time></JOB_COMPLETED></msgwrapper>
